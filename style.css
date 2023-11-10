@@ -39,6 +39,7 @@ body{
 }
 
 nav{
+    box-shadow: 0px 0px 3px rgb(0, 0, 0);
     display: flex;
     padding: 2%, 6%;
     justify-content: space-between;
