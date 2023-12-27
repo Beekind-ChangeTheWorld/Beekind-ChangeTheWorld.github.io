@@ -213,10 +213,17 @@ nav img{
     width: 40%;
 }
 
-.Memberslist{
+.rolesList ul{
     padding-left: 14%;
     padding-bottom: 10%;
     padding-top: 6%;
+}
+
+.rolesList h2{
+    text-shadow: 1px 1px 2px rgb(250, 225, 193), 0 0 1em rgb(247, 221, 149), 0 0 0.2em rgb(221, 175, 49);
+    color: rgb(109, 85, 21);
+    font-size: 180%;
+    padding-left: 1%;
 }
 
 .rolesList li{
@@ -228,13 +235,13 @@ nav img{
     transition: 0.4s;
 }
 
-.rolesList a{
+.Memberslist a{
     color: rgb(56, 41, 1);
     text-decoration: none;
     transition: 0.4s;
 }
 
-.rolesList a::after{
+.Memberslist a::after{
     content: "";
     width: 0%;
     height: 2px;
@@ -243,11 +250,11 @@ nav img{
     transition: 0.5s;
 }
 
-.rolesList a:hover::after{
+.Memberslist a:hover::after{
     width: 20%;
 }
 
-.rolesList li:hover a{
+.Memberslist li:hover a{
     color: rgba(137, 106, 44, 0.696);
 }
 
