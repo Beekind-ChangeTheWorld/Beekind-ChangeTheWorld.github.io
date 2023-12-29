@@ -1,7 +1,6 @@
-```markdown
 # BEEKIND - ~ Change the World
 
-![BEEKIND Logo](images/logo.png)
+![BEEKIND Logo](link/to/logo.png) <!-- Add a logo image if available -->
 
 Welcome to BEEKIND, a Swiss-based website committed to raising awareness about bees in our local community of Founex and beyond. Our mission is to foster a deeper understanding of the vital role bees play in our ecosystem and inspire positive actions to support their well-being.
 
@@ -30,25 +29,6 @@ Bees are essential pollinators that contribute to the diversity and health of ou
 
 We welcome contributions from the community to help enhance BEEKIND. If you have ideas, bug reports, or want to contribute code, please follow the guidelines in our [Contributing](CONTRIBUTING.md) documentation.
 
-## Getting Started
-
-To get started with BEEKIND locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/brf-f/BEEKIND.git
-   ```
-
-2. Open the project in your preferred code editor.
-
-3. Explore the code and content to understand the structure of the website.
-
-4. Make any necessary changes or enhancements.
-
-5. Test your changes locally.
-
-6. Commit your changes and submit a pull request.
-
 ## Contact Us
 
 For any inquiries or collaboration opportunities, please feel free to reach out to us at [beekind.changetheworld@gmail.com](mailto:beekind.changetheworld@gmail.com).
@@ -62,4 +42,3 @@ If you encounter any issues or have suggestions for improvement, please [open an
 BEEKIND believes that small actions can lead to significant change. By raising awareness and inspiring collective efforts, we aim to make a positive impact on the world of bees and, in turn, the entire ecosystem. Join us on this journey to make a difference—because together, we can change the world.
 
 Thank you for supporting BEEKIND! 🐝✨
-```

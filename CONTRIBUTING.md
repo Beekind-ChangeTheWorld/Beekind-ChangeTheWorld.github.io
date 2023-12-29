@@ -1,59 +1,36 @@
-```markdown
 # Contributing to BEEKIND
 
 Thank you for considering contributing to BEEKIND! We appreciate your interest in helping us make a positive impact on bee conservation.
 
-## Getting Started in Contributing
+## Ways to Contribute
 
-### Setting Up Your Development Environment
+1. **Reporting Issues:**
+   - If you encounter any issues or bugs, please open an [issue](https://github.com/brf-f/BEEKIND/issues) and provide detailed information about the problem.
 
-1. **Fork the Repository:**
-   - Click on the "Fork" button on the top right of the repository page to create your copy.
+2. **Feature Requests:**
+   - If you have ideas for new features or improvements, submit a [feature request](https://github.com/brf-f/BEEKIND/issues) to discuss and gather feedback.
 
-2. **Clone Your Fork:**
-   ```bash
-   git clone https://github.com/your-username/BEEKIND.git
-   cd BEEKIND
-   ```
+3. **Code Contributions:**
+   - Fork the repository and create a new branch for your contribution.
+   - Make your changes, ensuring they adhere to the project's coding standards.
+   - Test your changes locally.
+   - Submit a [pull request](https://github.com/brf-f/BEEKIND/pulls) with a clear description of your changes.
 
-3. **Install Dependencies:**
-   - Run any commands or scripts necessary to install project dependencies.
+4. **Documentation:**
+   - Improve the existing documentation or create new documentation to help users understand the project better.
 
-### Making Changes
+## Code Contribution Guidelines
 
-1. **Create a Branch:**
-   - Create a new branch for your contribution.
-   ```bash
-   git checkout -b feature/new-feature
-   ```
+- Follow the existing coding style and conventions.
+- Write clear and concise commit messages.
+- Ensure that your code changes pass all relevant tests.
 
-2. **Make Changes:**
-   - Make your desired changes to the code.
+## Code of Conduct
 
-3. **Test Locally:**
-   - Ensure that your changes work as expected locally.
-
-### Submitting Changes
-
-1. **Commit Changes:**
-   - Commit your changes with a descriptive commit message.
-   ```bash
-   git commit -m "Add new feature: XYZ"
-   ```
-
-2. **Push Changes:**
-   - Push your changes to your forked repository.
-   ```bash
-   git push origin feature/new-feature
-   ```
-
-3. **Submit a Pull Request:**
-   - Go to the [Pull Requests](../../pulls) tab of your forked repository.
-   - Click on "New Pull Request" and follow the prompts.
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place. By participating in this project, you agree to abide by its terms.
 
 ## Contact Us
 
-For any questions or assistance, feel free to contact us at [beekind.changetheworld@gmail.com](mailto:beekind.changetheworld@gmail.com).
+If you have any questions or need assistance, feel free to contact us at [beekind.changetheworld@gmail.com](mailto:beekind.changetheworld@gmail.com).
 
 Thank you for contributing to BEEKIND! 🐝✨
-```
