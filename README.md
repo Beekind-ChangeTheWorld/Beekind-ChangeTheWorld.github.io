@@ -1,6 +1,6 @@
 # BEEKIND - ~ Change the World
 
-![BEEKIND Logo](images/logo.png)
+![BEEKIND Logo](images/logo--no_bg.png)
 
 Welcome to BEEKIND, a Swiss-based website committed to raising awareness about bees in our local community of Founex and beyond. Our mission is to foster a deeper understanding of the vital role bees play in our ecosystem and inspire positive actions to support their well-being.
 
