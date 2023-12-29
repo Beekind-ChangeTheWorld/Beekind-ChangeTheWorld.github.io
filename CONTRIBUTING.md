@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to BEEKIND! We appreciate your interest in helping us make a positive impact on bee conservation.
 
+<br>
+
 ## Ways to Contribute
 
 1. **Reporting Issues:**
@@ -19,11 +21,15 @@ Thank you for considering contributing to BEEKIND! We appreciate your interest i
 4. **Documentation:**
    - Improve the existing documentation or create new documentation to help users understand the project better.
 
+<br>
+
 ## Code Contribution Guidelines
 
 - Follow the existing coding style and conventions.
 - Write clear and concise commit messages.
 - Ensure that your code changes pass all relevant tests.
+
+<br>
 
 ## Code of Conduct
 
