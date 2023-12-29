@@ -4,9 +4,13 @@
 
 Welcome to BEEKIND, a Swiss-based website committed to raising awareness about bees in our local community of Founex and beyond. Our mission is to foster a deeper understanding of the vital role bees play in our ecosystem and inspire positive actions to support their well-being.
 
+<br>
+
 ## About
 
 Bees are essential pollinators that contribute to the diversity and health of our ecosystems. However, they face numerous threats, including habitat loss, pesticide exposure, and climate change. BEEKIND aims to educate and empower individuals to make a difference in preserving bee populations.
+
+<br>
 
 ## Features
 
@@ -20,22 +24,32 @@ Bees are essential pollinators that contribute to the diversity and health of ou
 
 - **Location**: Explore our interactive map showcasing the locations of our bee hives, including those in Founex, Switzerland.
 
+<br>
+
 ## Developer
 
 - **Developer**: Bruno F.
 - **GitHub**: [brf-f](https://github.com/brf-f)
 
+<br>
+
 ## How to Contribute
 
 We welcome contributions from the community to help enhance BEEKIND. If you have ideas, bug reports, or want to contribute code, please follow the guidelines in our [Contributing](CONTRIBUTING.md) documentation.
+
+<br>
 
 ## Contact Us
 
 For any inquiries or collaboration opportunities, please feel free to reach out to us at [beekind.changetheworld@gmail.com](mailto:beekind.changetheworld@gmail.com).
 
+<br>
+
 ## Support
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/brf-f/BEEKIND/issues). Your feedback is valuable in helping us make BEEKIND a more impactful platform.
+
+<br>
 
 ## ~ Change the World
 
