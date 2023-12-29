@@ -1,5 +1,3 @@
-Certainly! Here's the "Getting Started in Contributing" section in Markdown syntax:
-
 ```markdown
 # Contributing to BEEKIND
 

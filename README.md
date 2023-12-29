@@ -1,5 +1,3 @@
-Certainly! Here's the revised README.md file in Markdown syntax:
-
 ```markdown
 # BEEKIND - ~ Change the World
 
