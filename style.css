@@ -556,6 +556,15 @@ footer p{
     text-shadow: 0 0 0.3em rgba(252, 252, 163, 0.425);
 }
 
+.blog_subheading{
+    font-size: 120%;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 5%;
+    text-shadow: 0 0 0.3em rgba(252, 252, 163, 0.425);
+}
+
 .blog p:last-of-type{
     text-align: center;
 }
